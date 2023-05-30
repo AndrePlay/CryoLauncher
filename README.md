@@ -22,7 +22,11 @@ I am really happy to announce that this mod pack will go worldwide for its first
 
 this official release will be a lot stable and after the official release get more often updates and support.
 
- 
+ stable: Standard release with all mods included. best for your primary world
+
+Beta: some mods may be missing but essentials are there. you will see this often when there is a recent Minecraft update
+
+Dev: unstable shit and not good at working. meant for testing! use a test world!
 
  
 
