@@ -34,7 +34,7 @@ GitHub: coming soon
 
 Cool photos:
 
-1 https://media.essential.gg/5d0a5619-b437-4626-78fe-7e31bf14ab00
+1 https://media.essential.gg/5d0a5619-b  37-4626-78fe-7e31bf14ab00
 
 2 https://media.essential.gg/f1512e9e-4c35-48de-a865-bb78eb286200
 
@@ -45,3 +45,19 @@ Cool photos:
 Socials:
 
 Discord: Coming Soon
+
+
+WORLD MAINTAIN ETC
+
+above this text you will see the sorts of releases stable beta dev etc. this guide is over how to maintain your world and not get data corruption.
+to be safe, always stay on an stable build because it haves all the mods that are needed. beta you may also can use but will have some missing mods but enough mods to run an world
+without data corruption. dev stay away.
+
+look always at an description of an release to see if it is supported and no data corruption can happen
+what if an new mod is added for terrain questionmark
+
+that can lead to data corruption and i almost forgot backup your worlds frequently
+
+TROUBLESHOOTING
+
+this new update corrupts my world 
