@@ -2,12 +2,6 @@ CryoLauncher
 
  
 
-IMPORTANT: INSTALL THE MOD ESSENTIALS AND DO IT IN THE MOD FOLDER OF THIS MODPACK https://essential.gg/download
-
-THIS IS AN MOD THAT IS REALLY IMPORTANT FOR THIS MOD PACK
-
- 
-
 1.20 testing soon!
 
  _______________________________________________________________________________________________________________________________________________________________________
@@ -36,7 +30,7 @@ Curseforge: https://www.curseforge.com/minecraft/modpacks/cryolauncher
 
 Modrinth: Coming Soon
 
- 
+GitHub: coming soon
 
 Cool photos:
 
