@@ -60,4 +60,7 @@ that can lead to data corruption and i almost forgot backup your worlds frequent
 
 TROUBLESHOOTING
 
-this new update corrupts my world 
+this new update corrupts my world what now
+option 1 you will start an new fresh world 
+option 2 remove the mod that is added and see if the world still works.
+
